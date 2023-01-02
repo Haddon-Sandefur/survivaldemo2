@@ -4,9 +4,7 @@ author: "Haddon Sandefur"
 date: 'December 2nd, 2022'
 output: html_document
 ---
-Enjoy this image:
 
-![...](Images/raccoon.png){width=15%}
 
 ```{r setup, include=FALSE}
 #Pre-Functions + Packages
